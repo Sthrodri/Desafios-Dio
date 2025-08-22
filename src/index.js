@@ -14,13 +14,14 @@ function getHeroLevel(xp)
         return "Ascendente";
     else if (xp >= 9001 && xp <= 10000)
         return "Imortal";
-    else
+    else if (xp >= 10001)
         return "Radiante";
 }
 
 function printHeroStatus(name, xp) 
 {
     const level = getHeroLevel(xp);
+    
     console.log(`O Herói de nome ${name} está no nível de ${level}`);
 }
 
