@@ -1,3 +1,4 @@
+//função para obter o level do heroi
 function getHeroLevel(xp) 
 {
     if (xp < 1000)
@@ -18,6 +19,7 @@ function getHeroLevel(xp)
         return "Radiante";
 }
 
+//função para imprimir no terminal a frase pedida no desafio de acordo com o valor das variaveis
 function printHeroStatus(name, xp) 
 {
     const level = getHeroLevel(xp);
