@@ -2,7 +2,7 @@ html, body {
     margin: 0;
 }
 body {
-    background-color: #f1f1f1;
+    background-color: rgb(111, 5, 156);;
     display: flex;
     justify-content: center;
 }
@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgb(238, 0, 178);
 }
 .main {
     display: flex;
@@ -20,19 +20,26 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(218, 167, 256);
     padding: 10px 20px 0px;
 }
+
+.menu ul li a {
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(218, 167, 256);
     min-height: 150px;
 }
 .content {
-    background-color: white;
+    background-color: rgb(111, 5, 156);
     min-height: 300px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: rgb(218, 167, 256);
     min-height: 150px;
 }
