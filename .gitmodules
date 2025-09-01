@@ -7,3 +7,6 @@
 [submodule "Desafios_html_web_developer/Terceiro_modulo"]
 	path = Desafios_html_web_developer/Terceiro_modulo
 	url = https://github.com/sthrodri/trilha-html-modulo-3.git
+[submodule "Desafios_html_web_developer/Primeiro_modulo"]
+	path = Desafios_html_web_developer/Primeiro_modulo
+	url = https://github.com/sthrodri/trilha-html-modulo-1.git
