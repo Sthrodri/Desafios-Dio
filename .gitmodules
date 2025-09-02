@@ -1,0 +1,15 @@
+[submodule "Desafios_html_web_developer/Desafios_html_web_developer/curriculo"]
+	path = Desafios_html_web_developer/Desafios_html_web_developer/curriculo
+	url = https://github.com/Sthrodri/curriculo_online.git
+[submodule "Desafios_html_web_developer/curriculo_html"]
+	path = Desafios_html_web_developer/curriculo_html
+	url = https://github.com/Sthrodri/curriculo_online.git
+[submodule "Desafios_html_web_developer/Modulo_1"]
+	path = Desafios_html_web_developer/Modulo_1
+	url = https://github.com/sthrodri/trilha-html-modulo-1.git
+[submodule "Desafios_html_web_developer/Modulo_2"]
+	path = Desafios_html_web_developer/Modulo_2
+	url = https://github.com/sthrodri/trilha-html-modulo-2.git
+[submodule "Desafios_html_web_developer/Modulo_3"]
+	path = Desafios_html_web_developer/Modulo_3
+	url = https://github.com/sthrodri/trilha-html-modulo-3.git
