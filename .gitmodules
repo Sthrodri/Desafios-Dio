@@ -10,3 +10,6 @@
 [submodule "Desafios_html_web_developer/curriculo_online"]
 	path = Desafios_html_web_developer/curriculo_online
 	url = https://github.com/Sthrodri/curriculo_online.git
+[submodule "Desafios_css_web_developer/Desafios_css_web_developer/LandingPage_Dio"]
+	path = Desafios_css_web_developer/Desafios_css_web_developer/LandingPage_Dio
+	url = https://github.com/Sthrodri/trilha-css-desafio-01.git
